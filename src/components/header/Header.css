@@ -1,0 +1,26 @@
+.headerStyle {
+    background: #fff !important;
+    margin: 5px;
+    padding: 0 10px !important;
+}
+
+.flex-item {
+    margin: 10px;
+    cursor: pointer;
+}
+
+.logo {
+    float: left;
+}
+
+
+.menu-auto-width {
+    max-width:120px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.menu-auto-width:hover {
+    overflow: unset;
+    max-width:unset;
+    text-overflow: unset;
+}

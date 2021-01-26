@@ -1,0 +1,12 @@
+.blueColor {
+    color: #237FD5 !important;
+}
+
+.fullWidth {
+    width: 100%;
+}
+
+.site-collapse-custom-collapse .site-collapse-custom-panel {
+    margin-bottom: 5%;
+    overflow: hidden;
+}
